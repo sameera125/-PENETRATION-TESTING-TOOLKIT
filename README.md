@@ -92,3 +92,8 @@ The final submission should include:
 ### Conclusion
 
 Task-3 of the CODTECH internship is a significant step toward real-world penetration testing and cybersecurity tool development. It enables participants to move beyond theoretical knowledge and apply their programming, security, and problem-solving skills in a practical, hands-on project. Completing this task not only builds a strong portfolio piece for aspiring cybersecurity professionals but also contributes to the understanding of how vulnerabilities can be identified and mitigated before they are exploited.
+
+
+OUTPUT :  ![Image](https://github.com/user-attachments/assets/4b9404a1-324d-4756-a98d-7c7de0cca33f)
+
+          ![Image](https://github.com/user-attachments/assets/be6f5bc2-b022-4f80-aa56-32e77a4279c8)
